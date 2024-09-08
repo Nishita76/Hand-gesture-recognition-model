@@ -25,4 +25,4 @@ The dataset used in this project is `leapGestRecog`, which consists of images of
 7. **Visualization:**  The predictions are visualized alongside the input images.
 
 ## Result analysis
-The final model achieved an impressive 97% validation accuracy on the test dataset. The model is highly reliable in classifying hand gestures using a Convolutional Neural Network (CNN) and the pretrained VGG16 model and can be confidently used in practical applications like gesture-controlled systems, virtual reality environments, and assistive technologies.
+The final model achieved an impressive '99%' validation accuracy on the test dataset. The model is highly reliable in classifying hand gestures using a Convolutional Neural Network (CNN) and the pretrained VGG16 model and can be confidently used in practical applications like gesture-controlled systems, virtual reality environments, and assistive technologies.
